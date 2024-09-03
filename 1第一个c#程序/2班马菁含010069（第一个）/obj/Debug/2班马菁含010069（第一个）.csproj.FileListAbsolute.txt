@@ -1,0 +1,9 @@
+c:\users\74180\documents\visual studio 2015\Projects\2班马菁含010069（第一个）\2班马菁含010069（第一个）\bin\Debug\2班马菁含010069（第一个）.exe.config
+c:\users\74180\documents\visual studio 2015\Projects\2班马菁含010069（第一个）\2班马菁含010069（第一个）\bin\Debug\2班马菁含010069（第一个）.exe
+c:\users\74180\documents\visual studio 2015\Projects\2班马菁含010069（第一个）\2班马菁含010069（第一个）\bin\Debug\2班马菁含010069（第一个）.pdb
+c:\users\74180\documents\visual studio 2015\Projects\2班马菁含010069（第一个）\2班马菁含010069（第一个）\obj\Debug\2班马菁含010069（第一个）.csprojResolveAssemblyReference.cache
+c:\users\74180\documents\visual studio 2015\Projects\2班马菁含010069（第一个）\2班马菁含010069（第一个）\obj\Debug\_2班马菁含010069_第一个_.Form1.resources
+c:\users\74180\documents\visual studio 2015\Projects\2班马菁含010069（第一个）\2班马菁含010069（第一个）\obj\Debug\_2班马菁含010069_第一个_.Properties.Resources.resources
+c:\users\74180\documents\visual studio 2015\Projects\2班马菁含010069（第一个）\2班马菁含010069（第一个）\obj\Debug\2班马菁含010069（第一个）.csproj.GenerateResource.Cache
+c:\users\74180\documents\visual studio 2015\Projects\2班马菁含010069（第一个）\2班马菁含010069（第一个）\obj\Debug\2班马菁含010069（第一个）.exe
+c:\users\74180\documents\visual studio 2015\Projects\2班马菁含010069（第一个）\2班马菁含010069（第一个）\obj\Debug\2班马菁含010069（第一个）.pdb
